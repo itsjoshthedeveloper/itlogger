@@ -47,16 +47,6 @@
       "firstName": "Greg",
       "lastName": "Harris",
       "id": 5
-    },
-    {
-      "firstName": "Bob",
-      "lastName": "Harris",
-      "id": 6
-    },
-    {
-      "firstName": "Brad",
-      "lastName": "Traversy",
-      "id": 7
     }
   ]
 }
